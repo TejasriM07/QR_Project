@@ -11,14 +11,14 @@
     align-items: center;
     justify-content: center;
     height: fit-content;
-    border: 2px solid rgb(254, 219, 17);
+    border: 2px solid rgb(158, 135, 7);
     gap: 30px;
     padding: 20px 150px;
             border-radius: 15px;
 
     input{
             height: 30px;
-            border: 1px solid rgb(232, 177, 10);
+            border: 1px solid rgb(245, 208, 98);
             border-radius: 10px;
             color: black;
 
